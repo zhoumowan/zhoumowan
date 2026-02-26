@@ -85,14 +85,14 @@ When I'm not building cool stuff, I'm exploring **algorithms**, **new technologi
   <tr>
     <td width="50%">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=wkndnite&show_icons=true&hide_border=true&cache_seconds=0"
+        src="https://github-readme-stats.vercel.app/api?username=zhoumowan&show_icons=true&hide_border=true&cache_seconds=0"
         alt="GitHub stats"
         style="height: 200px;"
       />
     </td>
     <td width="50%">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkndnite&layout=compact&hide_border=true&cache_seconds=0"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhoumowan&layout=compact&hide_border=true&cache_seconds=0"
         alt="Top Languages"
         style="height: 200px;"
       />
@@ -101,7 +101,7 @@ When I'm not building cool stuff, I'm exploring **algorithms**, **new technologi
   <tr>
     <td colspan="2" align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api/wakatime?username=WkndNite&layout=compact&hide_border=true&cache_seconds=0"
+        src="https://github-readme-stats.vercel.app/api/wakatime?username=zhoumowan&layout=compact&hide_border=true&cache_seconds=0"
         alt="WakaTime stats"
         width="98%"
       />
