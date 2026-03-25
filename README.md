@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Welcome%20to%20my%20GitHub%20Profile!-🚀%20Let's%20connect%20and%20explore-%23000000?style=for-the-badge&logo=github&logoColor=white&color=blue" alt="Welcome to my GitHub Profile! 🚀">
 </p>
 
-I'm a **Frontend Developer** 🌱 working with **React*, passionate about **performance optimization** and **clean code**.
+I'm a **Frontend Developer** 🌱 working with **React**, passionate about **performance optimization** and **clean code**.
 
 
 ## 🌟 What I'm Working On & Focus
