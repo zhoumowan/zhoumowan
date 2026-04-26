@@ -66,16 +66,9 @@ I'm a **Frontend Developer** 🌱 working with **React**, passionate about **per
   </tr>
 </table>
 
-
 ## 📫 Connect with Me
 
-<p align="center">
-  <a href="https://blog.fanzong211.cn/" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-岛屿开发录-4FC08D?style=for-the-badge&logo=ghost&logoColor=white" alt="Blog"/>
-  </a>
-  <a href="mailto:fanzong211@126.com">
-    <img src="https://img.shields.io/badge/Email-fanzong211@126.com-blue?style=for-the-badge&&logoColor=white" alt="Email"/>
-  </a>
-</p>
+- Blog: https://blog.fanzong211.cn/
+- Email: fanzong211@126.com
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+> "Code is like humor. When you have to explain it, it’s bad." — Cory House
